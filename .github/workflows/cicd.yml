@@ -63,7 +63,7 @@ jobs:
           tags: |
             ${{ vars.DOCKERHUB_USERNAME }}/ci-cd:latest
             ${{ vars.DOCKERHUB_USERNAME }}/ci-cd:${{ github.sha }}
-            
+
       - name: Trigger Render deploy
         env:
           RENDER_DEPLOY_HOOK_URL: ${{ secrets.RENDER_DEPLOY_HOOK_URL }}

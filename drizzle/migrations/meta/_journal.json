@@ -15,6 +15,13 @@
       "when": 1795744781319,
       "tag": "0001_tearful_luminals",
       "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "7",
+      "when": 1795744946107,
+      "tag": "0002_backfill_email_address",
+      "breakpoints": true
     }
   ]
 }

@@ -22,6 +22,27 @@
       "when": 1795744946107,
       "tag": "0002_backfill_email_address",
       "breakpoints": true
+    },
+    {
+      "idx": 3,
+      "version": "7",
+      "when": 1795890085924,
+      "tag": "0003_friendly_solo",
+      "breakpoints": true
+    },
+    {
+      "idx": 4,
+      "version": "7",
+      "when": 1795890137974,
+      "tag": "0004_chief_mentor",
+      "breakpoints": true
+    },
+    {
+      "idx": 5,
+      "version": "7",
+      "when": 1795890254503,
+      "tag": "0005_kind_nightmare",
+      "breakpoints": true
     }
   ]
 }
